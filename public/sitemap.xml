@@ -2,10 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ausfed.f5labs.dev/shortcodes/alerts/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://ausfed.f5labs.dev/getting-started/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ausfed.f5labs.dev/getting-started/installation/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/buttons/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/configuration/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/getting-started/usage/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/childpages/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/code/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/collapse/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/doublecode/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/lead/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/panel/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/categories/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/shortcodes/table/</loc>
+  </url><url>
+    <loc>https://ausfed.f5labs.dev/tags/</loc>
   </url>
 </urlset>
