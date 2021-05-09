@@ -2,7 +2,7 @@ baseURL = "https://ausfed.f5labs.dev"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Solutions for Australian Federal Government"
+title = "Cloud and Automation solutions for Australian Federal Government"
 theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
