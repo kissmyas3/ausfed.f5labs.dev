@@ -4,12 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="alternate" type="application/rss+xml" href="https://ausfed.f5labs.dev/categories/index.xml" title="Solutions for Australian Federal Government" />
-    <link rel="canonical" href="https://ausfed.f5labs.dev/categories/">
+    <link rel="canonical" href="https://ausfed.f5labs.dev/shortcodes/childpages/">
 
     <title>
         
-        Categories | Solutions for Australian Federal Government
+        Childpages | Solutions for Australian Federal Government
         
     </title>
 
@@ -55,9 +54,6 @@
               </ul>
             </div>
     </div>
-    <div class="feed-icons">
-            <a href=".Permalink"><img src="/img/feed-icon.svg" alt="RSS feed" /></a>
-        </div>
     </nav>
 <div class="container-fluid">
             <div class="row">
@@ -96,7 +92,7 @@
         
         <a class="nav-link p-0" href="/configuration/"><h6>Configuration</h6></a>
     </li>
-    <li data-nav-id="/shortcodes/" class="nav-item my-1 haschildren
+    <li data-nav-id="/shortcodes/" class="nav-item my-1 parent haschildren
         ">
         
         <a class="nav-link p-0" href="/shortcodes/"><h6>Shortcodes</h6></a>
@@ -113,7 +109,7 @@
                     Buttons
                 </a>
         </li>
-        <li data-nav-id="/shortcodes/childpages/" class="nav-item my-1">
+        <li data-nav-id="/shortcodes/childpages/" class="nav-item my-1 active">
                 
                  <a href="/shortcodes/childpages/" class="nav-link p-0">
                     Childpages
@@ -164,14 +160,50 @@
 
 </div>
                 <div class="docs-toc large order-lg-2 order-md-0 order-xs-1 col-12 col-lg-2 col-xl-2 position-sticky border-left"><div class="docs-toc">
-	
+	<nav id="TableOfContents">
+  <ul>
+    <li><a href="#usage">Usage</a></li>
+  </ul>
+</nav>
 </div>
 </div>
                 <div class="main col-12 order-1 col-md-9 col-lg-10 col-xl-8 py-3">
                 
 
-<h1>Categories</h1>
+<h1>Childpages</h1>
 
+<p>The childpages shortcode allows you to show a list of sub-pages of the current page. For example, the <em>Getting started</em> page of this documentation has three child pages: <em>Installation</em>, <em>Configuration</em> and <em>Creating content</em>. Placing the childpages shortcode in the <em>Getting started</em> page will place a create a list of these sub-pages in that page.</p>
+<h2 id="usage">Usage</h2>
+<p>Simply place the following shortcode on the page
+
+
+
+
+
+
+    
+    
+
+
+
+
+<div class="position-relative">
+    <div class="position-absolute" style="right:0;">
+        <button class="btn btn-light" data-clipboard-target="#clipboard_4cec572848">
+        Copy
+        </button>
+    </div>
+    <div id="clipboard_4cec572848">
+    <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">
+{{<span style="color:#111">&lt;</span> <span style="color:#f92672">childpages</span> <span style="color:#111">&gt;</span>}}
+
+</code></pre></div>
+    </div>
+</div>
+
+
+
+</p>
 
 
     
@@ -183,7 +215,8 @@
 
     <h4 class="text-white text-center">Read more</h4>
 
-    <div class="d-flex justify-content-center"><a class="p-1 ml-3 d-inline-block text-white text-right" href="/getting-started/" title="Getting started">Getting started<i class="fas fa-chevron-right p-1"></i></a>
+    <div class="d-flex justify-content-center"><a class="p-1 mr-3 d-inline-block text-white" href="/shortcodes/buttons/" title="Buttons"><i class="fas fa-chevron-left p-1"></i>Buttons</a>
+        <a class="p-1 ml-3 d-inline-block text-white text-right" href="/shortcodes/code/" title="Code">Code<i class="fas fa-chevron-right p-1"></i></a>
     </div>
 </div>
 
