@@ -11,7 +11,7 @@
 	"title": "Example solutions for AUS-FED",
 	"tags": null,
 	"description": "",
-	"content": "This site contains solutions built by F5 for the Australian Federal Government. Example deployments of infrastructure such as Secure Internet Gateway (SIG) using AWS and example applications such as API gateway for Health indsutry using FHIR are listed as a way to quickly deploy in order to demonstrate concepts. Examples   SIG using AWS  Secure Internet Gateway services using AWS      HAPI  FHIR based API gateway for Health records     "
+	"content": "This site contains solutions built by F5 for the Australian Federal Government. Example deployments of infrastructure such as Secure Internet Gateway (SIG) using AWS and example applications such as API gateway for Health industry using FHIR are listed as a way to quickly deploy in order to demonstrate concepts. Examples   SIG using AWS  Secure Internet Gateway services using AWS      HAPI  FHIR based API gateway for Health records     "
 },
 {
 	"uri": "https://ausfed.f5labs.dev/tags/",
