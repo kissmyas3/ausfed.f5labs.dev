@@ -4,11 +4,11 @@ description = ""
 +++
 
 {{< lead >}}
-This site contains solutions built by <a href="https://f5.com" target="_blank">F5</a> for the Australian Federal Government. Example deployments of infrastructure such as <a href="https://github.com/apcj-f5/ausfed-sig" target="_blank"> Secure Internet Gateway (SIG) using AWS</a> and example applications such as <a href="https://github.com/apcj-f5/hapi-fhir" target="_blank">API gateway for Health industry using FHIR</a> are listed as a way to quickly deploy in order to demonstrate concepts.
+This site contains reference cloud and security solutions built by <a href="https://f5.com" target="_blank">F5</a> for the Australian Federal Government. The repository containing information can be found at <a href="https://github.com/apcj-f5/ausfed-solutions" target="_blank"> the following link</a>, where examples are listed as a way to quickly deploy in order to demonstrate concepts.
 {{< /lead >}}
 
 
-## Examples
+## Reference Solutions
 <div class="row py-3 mb-5">
 	<div class="col-md-4">
 		<div class="card flex-row border-0">
@@ -17,10 +17,12 @@ This site contains solutions built by <a href="https://f5.com" target="_blank">F
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					SIG using AWS
+                    Secure Internet Gateway (SIG)
 				</h5>
 				<p class="card-text text-muted">
-					Secure Internet Gateway services using AWS
+                    <a href=https://github.com/apcj-f5/ausfed-sig target="_blank">
+					Secure Gateway Services using public cloud
+                    </a>
 				</p>
 			</div>
 		</div>
@@ -32,10 +34,12 @@ This site contains solutions built by <a href="https://f5.com" target="_blank">F
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-					HAPI
+                    Health API (HAPI) Security
 				</h5>
 				<p class="card-text text-muted">
-					FHIR based API gateway for Health records
+                    <a href="https://github.com/apcj-f5/hapi-fhir" target="_blank">
+					Health API gateway for FHIR records built using DevSecOps pipeline
+                    </a>
 				</p>
 			</div>
 		</div>
