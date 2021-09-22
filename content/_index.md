@@ -1,5 +1,5 @@
 +++
-title = "Example solutions for AUS-FED"
+title = ""
 description = ""
 +++
 
@@ -30,7 +30,7 @@ This site contains reference cloud and security solutions built by <a href="http
 	<div class="col-md-4">
 		<div class="card flex-row border-0">
 			<div class="mt-3">
-				<span class="fas fa-paint-brush fa-2x text-primary"></span>
+				<span class="fas fa-project-diagram fa-2x text-primary"></span>
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
@@ -39,6 +39,23 @@ This site contains reference cloud and security solutions built by <a href="http
 				<p class="card-text text-muted">
                     <a href="https://github.com/apcj-f5/hapi-fhir" target="_blank">
 					Health API gateway for FHIR records built using DevSecOps pipeline
+                    </a>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="card flex-row border-0">
+			<div class="mt-3">
+				<span class="fas fa-paint-brush fa-2x text-primary"></span>
+			</div>
+			<div class="card-body pl-2">
+				<h5 class="card-title">
+                    Cloud WAF Ingress
+				</h5>
+				<p class="card-text text-muted">
+                    <a href="https://github.com/apcj-f5/cloud-ingress-appsec" target="_blank">
+					WAF with L7 DoS for public cloud ingress
                     </a>
 				</p>
 			</div>

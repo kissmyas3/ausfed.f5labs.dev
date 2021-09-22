@@ -1,17 +1,17 @@
 [
 {
+	"uri": "https://ausfed.f5labs.dev/",
+	"title": "",
+	"tags": null,
+	"description": "",
+	"content": "This site contains reference cloud and security solutions built by F5 for the Australian Federal Government. The repository containing information can be found at the following link, where examples are listed as a way to quickly deploy in order to demonstrate concepts. Reference Solutions   Secure Internet Gateway (SIG)  Secure Gateway Services using public cloud       Health API (HAPI) Security  Health API gateway for FHIR records built using DevSecOps pipeline       Cloud WAF Ingress  WAF with L7 DoS for public cloud ingress      "
+},
+{
 	"uri": "https://ausfed.f5labs.dev/categories/",
 	"title": "Categories",
 	"tags": null,
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "https://ausfed.f5labs.dev/",
-	"title": "Example solutions for AUS-FED",
-	"tags": null,
-	"description": "",
-	"content": "This site contains reference cloud and security solutions built by F5 for the Australian Federal Government. The repository containing information can be found at the following link, where examples are listed as a way to quickly deploy in order to demonstrate concepts. Reference Solutions   Secure Internet Gateway (SIG)  Secure Gateway Services using public cloud       Health API (HAPI) Security  Health API gateway for FHIR records built using DevSecOps pipeline      "
 },
 {
 	"uri": "https://ausfed.f5labs.dev/tags/",

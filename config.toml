@@ -2,7 +2,7 @@ baseURL = "https://ausfed.f5labs.dev"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Cloud and Automation solutions for Australian Federal Government"
+title = "Cloud-based Security Solutions for Australian Federal Government"
 theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
@@ -31,7 +31,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 name = "Created by F5"
-url = "https://f5.com"
+url = "https://github.com/apcj-f5"
 weight = 1
 
 [[menu.shortcuts]]
