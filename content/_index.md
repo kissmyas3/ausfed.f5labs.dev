@@ -55,7 +55,7 @@ This site contains reference cloud and security solutions built by <a href="http
 				</h5>
 				<p class="card-text text-muted">
                     <a href="https://github.com/apcj-f5/cloud-ingress-appsec" target="_blank">
-					WAF with L7 DoS for public cloud ingress
+					WAF with L7 DoS and Bot Mitigation for public cloud ingress
                     </a>
 				</p>
 			</div>
