@@ -51,7 +51,7 @@ This site contains reference cloud and security solutions built by <a href="http
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
-                    Cloud WAF Ingress
+                    Cloud Ingress WAF
 				</h5>
 				<p class="card-text text-muted">
                     <a href="https://github.com/apcj-f5/cloud-ingress-appsec" target="_blank">
